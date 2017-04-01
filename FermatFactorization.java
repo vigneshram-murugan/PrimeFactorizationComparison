@@ -9,9 +9,7 @@ package ada.project;
     public class FermatFactorization
 
     {
-
-
-        public void FermatFactor(long N)
+       public void FermatFactor(long N)
 
         {
 
