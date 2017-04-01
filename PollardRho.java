@@ -26,7 +26,6 @@ public class PollardRho {
             if (N % 2 == 0) 
 
                 return 2;
-
             do 
 
             {
