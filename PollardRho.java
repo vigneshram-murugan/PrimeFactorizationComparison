@@ -28,9 +28,7 @@ public class PollardRho {
                 return 2;
             do 
 
-            {
-
-                x1 = f(x1) % N;
+            { x1 = f(x1) % N;
 
                 x2 = f(f(x2)) % N;
 
